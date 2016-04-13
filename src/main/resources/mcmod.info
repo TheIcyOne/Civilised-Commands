@@ -1,0 +1,16 @@
+[
+{
+  "modid": "civilisedideas",
+  "name": "Civilised Ideas",
+  "description": "Just the little things you need for a civilised time.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["The_Icy_One,johnfg12"],
+  "credits": "Johnfg12, because he keeps asking for things,tehnut for his base mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
